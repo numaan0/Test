@@ -26,3 +26,4 @@ print(socialLinks)
 print(mails)
 print(contact.replace('tel',""))
 print("aacc")
+
