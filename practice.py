@@ -25,3 +25,4 @@ for i in links:
 print(socialLinks)
 print(mails)
 print(contact.replace('tel',""))
+print("Added to master")
