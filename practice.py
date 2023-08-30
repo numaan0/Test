@@ -20,9 +20,10 @@ for i in links:
     if "mailto" in i:
         mails+=i+"\n"
     if "tel" in i:
-        contact+=i+"\n"
+        contact+=i+""
 
 print(socialLinks)
 print(mails)
 print(contact.replace('tel',""))
-print("Added to master")
+print("aacc")
+
