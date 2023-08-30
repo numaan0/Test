@@ -5,9 +5,11 @@ from urllib.request import Request, urlopen
 req = Request("https://ful.io/")
 html_page = urlopen(req)
 
+
 #soup = BeautifulSoup(html_page, "lxml")
 testlinks=0
 links = []
+
 socialLinks="Social Links \n"
 mails="Mail/s \n"
 contact= "Contact Number"
