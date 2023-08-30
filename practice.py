@@ -7,7 +7,7 @@ html_page = urlopen(req)
 
 soup = BeautifulSoup(html_page, "lxml")
 
-links = []
+#links = []
 socialLinks="Social Links \n"
 mails="Mail/s \n"
 contact= "Contact Number"
