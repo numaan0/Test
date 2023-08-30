@@ -23,7 +23,7 @@ for i in links:
         mails+=i+"\n"
     if "tel" in i:
         contact+=i+""
-
+print("Numan")
 print(socialLinks)
 print(mails)
 print(contact.replace('tel',""))
