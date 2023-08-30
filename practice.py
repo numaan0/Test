@@ -9,7 +9,7 @@ html_page = urlopen(req)
 #soup = BeautifulSoup(html_page, "lxml")
 testlinks=0
 links = []
-
+testin22=0
 socialLinks="Social Links \n"
 mails="Mail/s \n"
 contact= "Contact Number"
